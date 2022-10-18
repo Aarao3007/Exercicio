@@ -5,3 +5,5 @@ Informação inserida no repositório REMOTO como parte do exercício de fixaç�
 Testando para revisar
 
 Segundo teste
+
+Terceiro teste
