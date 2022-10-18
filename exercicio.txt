@@ -3,3 +3,5 @@ Informação inserida no repositório LOCAL como parte do exercício de fixaçã
 Informação inserida no repositório REMOTO como parte do exercício de fixação do aprendizado.
 
 Testando para revisar
+
+Segundo teste
